@@ -1,7 +1,7 @@
 
 public class FindAllDivisorsOptimised {
     public static void main(String[] args) {
-        int n = 10;
+        int n = 36;
         printAllFactors(n);
     }
 
