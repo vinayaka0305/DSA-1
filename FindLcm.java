@@ -1,7 +1,7 @@
 public class FindLcm {
     public static void main(String[] args) {
-        int a = 104;
-        int b = 169;
+        int a = 12;
+        int b = 30;
 
         // while (b != 0) {
         // int remainder = a % b;

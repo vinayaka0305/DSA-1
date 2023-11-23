@@ -14,6 +14,7 @@ public class primefactors2 {
         }
     }
 }
+// all numbers are either prime or madeofPrimeNumbers
 // tc of the code is sqrt(n);
 
 // math.sqrt will return double so we are converting it to integer(in line no 6)
